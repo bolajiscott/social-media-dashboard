@@ -4,3 +4,12 @@
 h6{
     text-align: right;
 }
+.card{
+    width: 250px;
+    height: 200px;
+    border-radius: 10px;
+    
+}
+.container{
+    height: 10px;
+}
